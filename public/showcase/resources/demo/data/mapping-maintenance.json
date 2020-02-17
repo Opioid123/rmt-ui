@@ -1,0 +1,8 @@
+{
+    "data": [
+        {"deptnbr": 22, "deptname": "Lumber", "subdeptnbr": "20", "subdeptname": "Lumber", "classnbr": "1", "classname": "Plywood", "subclassnbr": "2", "subclassname": "Heating", "subclasscombonbr": "22:1:2", "bsnsarea": "Building Materials", "svp": "Bowman", "gm": "NA", "dfm": "Delanto Hamilton", "soma": "", "dfmldap": "DXH4555", "somaldap": "", "olap": "021 C01-Plywood"},
+        {"deptnbr": 22, "deptname": "Lumber", "subdeptnbr": "20", "subdeptname": "Lumber", "classnbr": "1", "classname": "Plywood", "subclassnbr": "2", "subclassname": "Heating", "subclasscombonbr": "22:1:2", "bsnsarea": "Building Materials", "svp": "Bowman", "gm": "NA", "dfm": "Delanto Hamilton", "soma": "Brandon Miller", "dfmldap": "DXH4555", "somaldap": "Tmvsfe7", "olap": "021 C01-Plywood"},
+        {"deptnbr": 22, "deptname": "Lumber", "subdeptnbr": "20", "subdeptname": "Lumber", "classnbr": "1", "classname": "Plywood", "subclassnbr": "2", "subclassname": "Heating", "subclasscombonbr": "22:1:2", "bsnsarea": "Building Materials", "svp": "Bowman", "gm": "NA", "dfm": "", "soma": "", "dfmldap": "", "somaldap": "", "olap": "021 C01-Plywood"},
+        {"deptnbr": 22, "deptname": "Lumber", "subdeptnbr": "20", "subdeptname": "Lumber", "classnbr": "1", "classname": "Plywood", "subclassnbr": "2", "subclassname": "Heating", "subclasscombonbr": "22:1:2", "bsnsarea": "Building Materials", "svp": "Bowman", "gm": "NA", "dfm": "", "soma": "", "dfmldap": "", "somaldap": "", "olap": "021 C01-Plywood"}
+    ]
+}

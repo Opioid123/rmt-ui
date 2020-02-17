@@ -1,0 +1,7 @@
+{
+    "data": [
+        {"admin": false, "ldap": "thirus", "name": "thirupurant", "id": "thirus@iquadra.com", "role": "Admin"},
+        {"admin": true, "ldap": "brandon", "name": "Brandon", "id": "brandon@iquadra.com", "role": "Admin"},
+        {"admin": false, "ldap": "ramya", "name": "Ramya", "id": "randy@iquadra.com", "role": "Admin"}
+    ]
+}

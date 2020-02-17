@@ -1,0 +1,13 @@
+export const ADD_RESOURCE = 'ADD_RESOURCE';
+export const INIT_RESOURCES = 'INIT_RESOURCES';
+export const DELETE_RESOURCE = 'DELETE_RESOURCE';
+export const UPDATE_RESOURCE = 'UPDATE_RESOURCE';
+export const DATA_LOADED = 'DATA_LOADED';
+export const SELECT_RESOURCE = 'SELECT_RESOURCE';
+export const REQUEST_BEGIN = 'REQUEST_BEGIN';
+export const REQUEST_END = 'REQUEST_END';
+export const ADD_ERROR = 'ADD_ERROR';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
+export const SELECT_LDAP = 'SELECT_LDAP';
+export const SELECT_ROLE = 'SELECT_ROLE';
+export const INIT_MAPPING = 'INIT_MAPPING';
