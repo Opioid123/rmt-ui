@@ -25,7 +25,7 @@
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
-    "simple-flexbox": "^2.2.1"
+    "simple-flexbox": "^2.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
